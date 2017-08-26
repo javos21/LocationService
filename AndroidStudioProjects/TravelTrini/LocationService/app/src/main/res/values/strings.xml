@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TriniTravel</string>
+    <string name="drawer_home">Home</string>
+    <string name="drawer_dest">Destination</string>
+    <string name="drawer_logout">Log Out</string>
+    <string name="selected_place">Selected Place:</string>
+    <string name="spinner_title">Usual Method of Transport</string>
+    <string-array name="transport_array">
+        <item>Bus</item>
+        <item>Ferry</item>
+        <item>Maxi</item>
+        <item>Taxi</item>
+    </string-array>
+
+    <string name="place_details">
+    <![CDATA[
+        <b>%1$s</b>
+        <br/>
+        <i>Place Id: %2$s</i>
+        <br/>
+        Address: %3$s
+        <br/>
+        Phone: %4$s
+        <br/>
+        Website: %5$s
+    ]]>
+    </string>
+</resources>
